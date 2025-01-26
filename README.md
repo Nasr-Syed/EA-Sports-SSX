@@ -1,5 +1,7 @@
 # EA Sports SSX (Playstation 3)
-A personal achievement of mine - winner of the 2012 SSX EA Sports snowboard design competition for the Playstation 3 developed video game, SSX. Designs submitted by me, and officially published by EA Sports SSX and included in the final copy of the game.
+A personal achievement of mine - winner of the 2012 SSX EA Sports snowboard design competition for the Playstation 3 developed video game, SSX (2012).
+
+As an avid gaming fan who loves video games as a personal hobby, I achieved a significant milestone in video game design by contributing three snowboard designs to the final version of *SSX* for PlayStation 3. Using advanced Photoshop skills, I participated in and won a design contest, with my creations selected for inclusion in the game. Designs submitted by me, and officially published by EA Sports SSX and included in the final copy of the game. *SSX (2012)* was a critically acclaimed reboot of the beloved snowboarding series, known for its high-energy gameplay and stunning visuals. The game was well-received by players and critics alike, earning an 82/100 on Metacritic and selling over 1.3 million copies globally. Its popularity solidified its place as a standout title in the sports gaming genre.
 
 
 ## List of Boards submitted:
